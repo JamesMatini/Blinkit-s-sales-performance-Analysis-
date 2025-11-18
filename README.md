@@ -132,10 +132,10 @@ Machine learning for sales forecasting
 Customer segmentation using clustering
 Predictive modeling for inventory optimization
 
-##Technical Improvements
+## Technical Improvements
 Web dashboard deployment using Streamlit/Dash
 Automated reporting pipelines
 Real-time data integration
 Cloud deployment options
 
-##Transforming Blinkit's retail data into strategic intelligence using Python's powerful data science ecosystem for accelerated growth and operational excellence.
+## Transforming Blinkit's retail data into strategic intelligence using Python's powerful data science ecosystem for accelerated growth and operational excellence.
